@@ -1,5 +1,7 @@
 #config/os stuff
 __pycache__
 .DS_Store
+.idea/
+venv/
 # dataset
 extracted_dataset
