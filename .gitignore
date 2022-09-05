@@ -1,0 +1,5 @@
+#config/os stuff
+__pycache__
+.DS_Store
+# dataset
+extracted_dataset
